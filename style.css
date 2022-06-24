@@ -1,0 +1,121 @@
+body{
+    font-family: roboto, sans-serif;
+    margin: 0px;
+    padding:0px;
+    overflow-x: hidden;
+}
+html{
+    scroll-behavior: smooth;
+}
+.navbar{
+    position: sticky;
+    z-index: 2;
+    top:0;
+}
+
+.icons i:hover{
+    box-shadow: 1px 1px 1px rgb(164, 164, 204),-1px -1px 1px rgb(173, 173, 255);
+    cursor:pointer;
+}
+.nav-link:hover,dropdown-item:hover{
+text-decoration: underline;
+
+}
+.navbar-nav{
+    padding-left: 23%;
+    font-size: 12px;
+}
+.logo-div{
+    padding-left: 9%;
+    padding-top: 15px;}
+.appointment-button{
+    height:45px;
+    border-radius: 0px !important;
+}
+
+.carousel-inner img{
+    filter:brightness(60%);
+    height:500px;
+}
+.cases-div{
+    width:100%;
+    height:250px;
+    background-color: rgba(59, 165, 236, 0.883);
+    
+}
+.call-div{
+    width:100%;
+    height:250px;
+    background-color: rgba(59, 165, 236, 0.801);
+    /* margin-left: -30px; */
+    
+
+}
+.working-hours-div{
+    width:100%;
+    height:250px;
+    background-color: rgba(59, 165, 236, 0.746);
+    /* margin-left: -9px; */
+  
+}
+h6{
+    font-weight: 500px;
+    letter-spacing: 1px;
+}
+.read-more-button{
+    margin-top:-15px;
+}
+
+
+.dormitory button{
+border-radius:0px;
+height:40px;
+margin-right: 5px;
+margin-top:8%;
+}
+.detail hr{
+    width: 75px;
+    background-color: #a3a3a3;
+    height: 1px;
+}
+.card img{
+    height:200px;
+}
+.DC{
+box-shadow: 1px 1px 3px #dddbdb,-1px -1px 3px #dddbdb;
+}
+input,select{
+    height: 35px;
+    width: 150px;
+    margin-left:8% ;
+    background-color: rgb(236, 245, 236);
+    border:none;
+    margin-bottom: 3%;
+    padding: 8px;
+}
+input:focus{
+    border: 3px solid #555;
+}
+::-webkit-input-placeholder{
+    color:#a3a3a3;
+}
+.text-area{
+  
+        width: 350px;
+        height: 200px;
+        padding-bottom: 30%;
+        padding-left: 3%;
+    
+}
+.submit-btn{
+    width:90%;
+    font-size: 12px;
+    border-radius: 0%;
+    margin-left: 8%;
+    margin-bottom: 10%;
+}
+
+.footer-navs li{
+    display: inline-block;
+    cursor:pointer;
+}

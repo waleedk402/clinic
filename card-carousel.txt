@@ -1,0 +1,101 @@
+  <!-- cards carousel -->
+        <div class="row" style="width:100%">
+          <div class="col-xl-12 bg-light ml-3" style="width: 100%; height:200px;">
+          <h3 class="text-center mt-5"><b>Provided</b> Services</h3>
+          <p class="text-center mt-3 text-secondary" style="font-size: 14px;">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo id explicabo repellat animi <br> reprehenderit, reiciendis dolor ab. Odit, quaerat dicta?</p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-xl-12">
+            <div id="abc" class="carousel slide" data-ride="carousel">
+              <div class="carousel-inner">
+                <div class="carousel-item active">
+                  <div class="container">
+                    <div class="row">
+                      <div class="col-xl-4">
+                        <div class="card" style="width:300px ;height:400px;margin: auto;">
+                        <img src="images/services1.jpg" alt="" class="card-img-top">
+                      <div class="card-body">
+                        <p class="text-center text-secondary" style="font-size: 14px;"> Better Service at Low Cost</p>
+                        <h6 class="text-center"><b>DORMITORY</b></h6>
+                        <p class="text-center text-secondary" style="font-size:14px;">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi op</p>
+                      </div>
+                      </div>
+                      </div>
+                      <div class="col-xl-4">
+                        <div class="card" style="width:300px ;height:400px; margin:auto">
+                        <img src="images/services2.jpg" alt="" class="card-img-top">
+                      <div class="card-body">
+                        <p class="text-center text-secondary" style="font-size: 14px;"> Better Service at Low Cost</p>
+                        <h6 class="text-center "><b>GERMS PROTECTION</b></h6>
+                        <p class="text-center text-secondary" style="font-size: 14px;">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commo cupiditate!</p>
+                      </div>
+                      </div>
+                      </div>
+                      <div class="col-xl-4">
+                        <div class="card" style="width:300px ;height:400px; margin:auto">
+                        <img src="images/services3.jpg" alt="" class="card-img-top">
+                      <div class="card-body">
+                        <p class="text-center text-secondary" style="font-size: 14px;"> Better Service at Low Cost</p>
+                        <h6 class="text-center "><b>PSYCOLOGY</b></h6>
+                        <p class="text-secondary text-center " style="font-size: 14px;">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi optio imp quod quaerat, ab cupiditate!</p>
+                      </div>
+                      </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="carousel-item ">
+                  <div class="container">
+                    <div class="row">
+                      <div class="col-xl-4">
+                        <div class="card" style="width:300px ;height:400px; margin: auto;">
+                        <img src="images/services4.jpg" alt="" class="card-img-top">
+                      <div class="card-body">
+                        <p class="text-center text-secondary" style="font-size: 14px;"> Better Service at Low Cost</p>
+                        <h6 class="text-center"><b>DENTIST</b></h6>
+                        <p class="text-center text-secondary"style="font-size: 14px;">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi optio imp quod quaerat, ab cupiditate!</p>
+                      </div>
+                      </div>
+                      </div>
+                      <div class="col-xl-4">
+                        <div class="card" style="width:300px ;height:400px; margin:auto;">
+                        <img src="images/services5.jpg" alt="" class="card-img-top">
+                      <div class="card-body">
+                        <p class="text-center text-secondary" style="font-size:14px "> Better Service at Low Cost</p>
+                        <h6 class="text-center"><b>DERMATOLOGISTS</b></h6>
+                        <p class="text-center text-secondary" style="font-size: 14px;">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi optio imp quod quaerat, ab cupiditate!</p>
+                      </div>
+                      </div>
+                      </div>
+                      <div class="col-xl-4">
+                        <div class="card" style="width:300px ;height:400px; margin:auto">
+                        <img src="images/services6.jpg" alt="" class="card-img-top">
+                      <div class="card-body">
+                        <p class="text-center text-secondary" style="font-size: 14px;"> Better Service at Low Cost</p>
+                        <h6 class="text-center"><b>PHYSICIANS</b></h6>
+                        <p class="text-center text-secondary" style="font-size: 14px;">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Commodi optio imp quod quaerat, ab cupiditate!</p>
+                      </div>
+                      </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <a href="#abc" class="carousel-control-prev" data-slide="prev">
+                <span class="carousel-control-prev-icon bg-secondary"></span>
+              </a>
+              <a href="#abc" class="carousel-control-next" data-slide="next">
+                <span class="carousel-control-next-icon bg-secondary"></span>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="container mt-5">
+          <div class="row mt-5">
+            <div class="col-xl-12">
+              <h3 class="mt-4 text-center"><b>Our Expert</b> Doctors</h3>
+              <p class="text-center text-secondary" style="font-size: 14px;"> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Modi autem commodi facilis unde reprehenderit libero. <br> A quick brown fox jumps over a hungry dog</p>
+            </div>
+
+          </div>
